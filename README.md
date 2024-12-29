@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mokujin-fox;
 - 👀 I’m interested in C#, Unity, C++, SQL, Programming Game;
 - 🌱 I’m currently learning C#, SQL;
-- 📫 How to reach me Mokujin.fox@gmail.com;
 
 <!---
 Mokujin-fox/Mokujin-fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
